@@ -8,4 +8,4 @@ var app = require('../index.js');describe('GET /', function() {
 
  });
 
-});
+})
